@@ -156,7 +156,7 @@ img {
 }
 
 .cake {
-    color: indigo;
+    color: yellow;
     font-size: 40px;
     text-align: center;
     animation: text 3s infinite;
@@ -165,7 +165,7 @@ img {
 
 @keyframes text {
     0% {
-        color: indigo;
+        color: yellow;
     }
 
     20% {
@@ -181,6 +181,6 @@ img {
     }
 
     70% {
-        color: green;
+        color: yellow;
     }
 }
