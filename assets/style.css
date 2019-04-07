@@ -1,9 +1,10 @@
 body {
     background-image: url("https://i.imgur.com/vwqyPns.jpg");
+    
 }
 
 .background {
-    background-color: rgba(0, 0, 0, 0.6);
+    /* background-color: rgba(0, 0, 0, 0.6); */
     width: 150px;
     height: 190px;
     padding: 70px;
@@ -183,4 +184,8 @@ img {
     70% {
         color: yellow;
     }
+}
+
+a {
+    color: green
 }
