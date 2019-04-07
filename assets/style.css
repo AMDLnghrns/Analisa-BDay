@@ -1,6 +1,5 @@
 body {
     background-image: url("https://i.imgur.com/vwqyPns.jpg");
-    
 }
 
 .background {
@@ -128,6 +127,7 @@ body {
     font-weight: 500;
     animation: color 3s infinite;
     font-family: serif;
+    margin-top: 10px;
 }
 
 @keyframes color {
@@ -188,4 +188,8 @@ img {
 
 a {
     color: green
+}
+
+p{
+    margin-top: 5px;
 }
